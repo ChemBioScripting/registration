@@ -9,7 +9,7 @@ OC.L10N.register(
     "Invalid username policy regex" : "Espressione regolare dei criteri del nome utente non valida",
     "Saved" : "Salvato",
     "No such group" : "Nessun gruppo",
-    "Register" : "Registra",
+    "Register" : "Registrati",
     "The email address you entered is not valid" : "L'indirizzo di posta che hai digitato non è valido",
     "Verify your %s registration request" : "Verifica la tua richiesta di registrazione a %s",
     "Registration" : "Registrazione",
